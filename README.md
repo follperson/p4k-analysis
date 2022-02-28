@@ -8,5 +8,7 @@ Data can be found here: [data](https://github.com/follperson/p4k-analysis/tree/m
 
 Part 1 in analysis series is here: [p4k-cleaning-EDA](https://github.com/follperson/p4k-analysis/blob/master/p4k-cleaning-EDA.ipynb)
 
+Part 2, genre classification is here: [p4k-genre-classification](https://github.com/follperson/p4k-analysis/blob/master/p4k-genre-classification.ipynb)
+
 Stay tuned for more updates!
 
